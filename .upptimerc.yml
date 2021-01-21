@@ -4,8 +4,10 @@ repo: britestatuspage # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Brite
+  - name: Home Page
     url: https://getbritehr.com/
+  - name: Admin Portal
+    url: https://app.be-brite.com/
 
 assignees: # Users to assign downtime issues (optional)
   - kurtinlane
