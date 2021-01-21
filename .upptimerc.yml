@@ -6,8 +6,10 @@ repo: britestatuspage # Your GitHub repository name
 sites:
   - name: Home Page
     url: https://getbritehr.com/
+    icon: https://app.be-brite.com/favicon.png
   - name: Admin Portal
     url: https://app.be-brite.com/
+    icon: https://app.be-brite.com/favicon.png
 
 assignees: # Users to assign downtime issues (optional)
   - kurtinlane
