@@ -28,3 +28,13 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Colton Shields](https://status.be-brite.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
+
+
+To add downtime add an issues to the repo with a tag of `maintenance` with a body list this:
+```
+<!--
+start: 2021-02-24T13:00:00.220Z
+end: 2021-02-24T14:00:00.220Z
+expectedDown: google, hacker-news
+-->
