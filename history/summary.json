@@ -26,19 +26,19 @@
     "url": "https://app.be-brite.com/",
     "icon": "https://app.be-brite.com/favicon.png",
     "slug": "admin-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 109,
-    "timeWeek": 112,
+    "timeDay": 116,
+    "timeWeek": 114,
     "timeMonth": 113,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2021-11-16": 0
+      "2021-11-16": 29
     }
   }
 ]
