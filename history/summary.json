@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 523,
-    "timeDay": 325,
-    "timeWeek": 434,
-    "timeMonth": 415,
-    "timeYear": 532,
+    "time": 524,
+    "timeDay": 653,
+    "timeWeek": 460,
+    "timeMonth": 419,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2022-02-02": 553
     }
@@ -26,13 +26,13 @@
     "slug": "admin-portal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 126,
-    "timeDay": 131,
-    "timeWeek": 152,
+    "timeDay": 172,
+    "timeWeek": 149,
     "timeMonth": 150,
     "timeYear": 130,
     "dailyMinutesDown": {
