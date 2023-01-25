@@ -4,9 +4,9 @@
     "url": "https://getbritehr.com/",
     "icon": "https://app.be-brite.com/favicon.png",
     "slug": "home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 392,
     "timeYear": 494,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-02-02": 553
     }
   },
