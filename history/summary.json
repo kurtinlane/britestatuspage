@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 600,
-    "timeWeek": 645,
-    "timeMonth": 671,
+    "time": 520,
+    "timeDay": 642,
+    "timeWeek": 644,
+    "timeMonth": 669,
     "timeYear": 517,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,16 @@
     "slug": "admin-portal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 136,
-    "timeWeek": 140,
-    "timeMonth": 138,
+    "timeDay": 103,
+    "timeWeek": 138,
+    "timeMonth": 133,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-04-06": 6,
       "2022-10-21": 16
     }
   }
