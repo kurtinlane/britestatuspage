@@ -4,19 +4,19 @@
     "url": "https://getbritehr.com/",
     "icon": "https://app.be-brite.com/favicon.png",
     "slug": "home-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 567,
-    "timeDay": 717,
-    "timeWeek": 684,
-    "timeMonth": 1009,
+    "timeDay": 654,
+    "timeWeek": 673,
+    "timeMonth": 995,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2023-07-07": 0
+      "2023-07-07": 5
     }
   },
   {
