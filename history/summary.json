@@ -15,7 +15,9 @@
     "timeWeek": 655,
     "timeMonth": 663,
     "timeYear": 577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   },
   {
     "name": "Admin Portal",
