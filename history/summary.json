@@ -5,15 +5,15 @@
     "icon": "https://app.be-brite.com/favicon.png",
     "slug": "home-page",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "93.48%",
+    "uptimeYear": "93.75%",
     "time": 574,
-    "timeDay": 640,
-    "timeWeek": 615,
-    "timeMonth": 495,
+    "timeDay": 576,
+    "timeWeek": 636,
+    "timeMonth": 500,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2025-02-05": 18,
@@ -41,8 +41,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   },
   {
@@ -57,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 190,
-    "timeWeek": 207,
-    "timeMonth": 201,
+    "timeDay": 160,
+    "timeWeek": 199,
+    "timeMonth": 197,
     "timeYear": 190,
     "dailyMinutesDown": {}
   }
